@@ -2,7 +2,7 @@
  Technical skills : Python, SQL, Machine learning , ETL, Deployment.
 
 ## Education
-* BSC Statistics with Computer science -  University of Ghana
+BSC Statistics with Computer science -  University of Ghana
 
 ## Professional Experience
 ### Statistical Analyst - Ghana Statistical Service
