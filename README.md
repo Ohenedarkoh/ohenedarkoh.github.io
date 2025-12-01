@@ -1,21 +1,7 @@
-## Data Analyst
+## 
 Technical skills : Python, SQL, Machine learning , ETL, Deployment.
 
-## Education
-BSC Statistics with Computer science -  University of Ghana
 
-## Professional Experience
-### Statistical Analyst - Ghana Statistical Service
-Collaborated to create interactive Excel visuals to track trends and support decision-making while analysing data on crime and traffic accidents from the Ghana Police Service. R was used to support projects by cleaning, transforming, and visualising data. Reviewed ISIC/ISCO codes to validate and reccode industry and occupation data for the Ghana Living Standards Survey. Contributed to the analysis of survey data using stata.
-
-### Data Analyst Intern - Excelerate(Remote,UAE)
-Used Tableau visualisations to provide the finance team with data-driven recommendations after analysing Facebook ad data to find underperforming campaigns.
-
-## Research Experience
-### Undergraduate Thesis
-Designed the research methodology with a team of four, including instrument design and data collection(google forms).
-Applied multiple linear regression and ANOVA in R to examine the correlation between study habits and GPA.
-Conducted statistical diagnostics,interpreted results, and contributed to the final written report.
 
 ## Projects
 ###  Ghana Housing Insights 
