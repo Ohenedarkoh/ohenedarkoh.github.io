@@ -9,7 +9,7 @@
 * Generated a Power BI dashboard for exploratory and comparative housing insights.
 
 #### Sales Analysis
-[![Bar charts and line graphs displaying sales performance metrics, revenue trends, and quarterly comparisons in a professional dashboard layout](images/sales.png)](https://github.com/Ohenedarkoh/Sales-Analysis)
+[![Bar charts and line graphs displaying sales performance metrics, revenue trends, and quarterly comparisons in a professional dashboard layout](images/sales11.svg)](https://github.com/Ohenedarkoh/Sales-Analysis)
 
 
 * **Executed SQL-based exploratory analysis** to clean,transform, and query sales datasets.
@@ -17,14 +17,14 @@
 
 #### Rest API to PostgreSQL
 
-[![Server infrastructure diagram showing data flow from REST API endpoints through Python processing to PostgreSQL database storage](images/api.jpg)](https://github.com/Ohenedarkoh/Rest-api-to-postgre)
+[![Server infrastructure diagram showing data flow from REST API endpoints through Python processing to PostgreSQL database storage](images/api11.webp)](https://github.com/Ohenedarkoh/Rest-api-to-postgre)
 
 * **Developed a Python ETL pipeline** using **requests**, **pandas**, and **psycopg2** to extract job postings from a **REST API**.
 * Loaded the structured data into a **PostgreSQL** database.
 
 ####  Exploratory Data Analysis
 
-[![Scatter plots, histograms, and correlation heatmaps visualizing data patterns and relationships from multiple datasets](images/eda.jpg)](https://github.com/Ohenedarkoh/EDA-in-python-case-studies-and-projects-)
+[![Scatter plots, histograms, and correlation heatmaps visualizing data patterns and relationships from multiple datasets](images/eda11.jpg)](https://github.com/Ohenedarkoh/EDA-in-python-case-studies-and-projects-)
 
 * **Conducted Exploratory Data Analysis (EDA)** across multiple domains including e-commerce, Google App Store, superstore sales, and heart disease records.
 * Utilized **pandas**, **matplotlib**, and **seaborn** to uncover trends, correlations, and anomalies.
