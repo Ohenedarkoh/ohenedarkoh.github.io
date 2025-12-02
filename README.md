@@ -1,9 +1,3 @@
-## 
-Technical skills : Python, SQL, Machine learning , ETL, Deployment.
-
-
-
-## Projects
 ###  Ghana Housing Insights 
 [![Residential properties in Ghana, featuring modern apartment buildings with manicured landscaping in an urban estate development](images/Airport-Estate-768x432.jpg)](https://github.com/Ohenedarkoh/Ghana-housing-insights)
 
