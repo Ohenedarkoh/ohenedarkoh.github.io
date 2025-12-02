@@ -1,3 +1,4 @@
+
 # Remote theme directory
 remote_theme: analytics-link/analytics-link.github.io
 
@@ -8,10 +9,11 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Frank Ohene-Darkoh 
+title: Frank Ohene-Darkoh
 description: "Hi I'm Frank, and I'm a Data Analyst based in Ghana  with strong foundations in Python (pandas) and SQL. I am passionate about using data to
  generate insights, contribute to research, and explore personal and industry projects. My collaborative
  approach makes me valuable to any team."
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
@@ -24,7 +26,7 @@ avatar_image:
 #------------------------------- 
 # Contact links
 linkedln: "https://www.linkedin.com/in/frankohene-darkoh-44412222b" # Add your linkedln handle
-github: "https://github.com/Ohenedarkoh"  # Add your github handle
+github: "https://github.com/Ohenedarkoh" # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -45,7 +47,7 @@ defaults:
 #-------------------------------
 # Exclude from processing.
 # exclude:
-#   - Gemfile
+#   - Gemfile"
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
