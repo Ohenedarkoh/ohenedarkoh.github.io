@@ -1,7 +1,4 @@
----
-layout: default
-title: My Portfolio Projects
----
+
 
 # Projects
 
