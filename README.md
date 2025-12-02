@@ -1,7 +1,4 @@
----
-layout: default
-title: My Portfolio Projects
----
+
 
 # Projects
 
@@ -12,7 +9,8 @@ title: My Portfolio Projects
 
 Built a full data pipeline to scrape,clean, and load real-estate listings into PostgreSQL for property valuation analysis.
 Developed and deployed an XGBoost prediction model through FastAPI service (Render) to provide real-time
-predictions. (R²=0.45, RMSE=0.7992, MAE=0.6058) (https://ghana-housing-insights-1.onrender.com/docs).
+predictions. (R²=0.45, RMSE=0.7992, MAE=0.6058)
+(https://ghana-housing-insights-1.onrender.com/docs).
 Generated a Power BI dashboard for exploratory and comparative housing insights.
 
 ### Sales Analysis
