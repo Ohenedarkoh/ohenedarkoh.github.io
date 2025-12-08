@@ -22,6 +22,14 @@
 * **Developed a Python ETL pipeline** using **requests**, **pandas**, and **psycopg2** to extract job postings from a **REST API**.
 * Loaded the structured data into a **PostgreSQL** database.
 
+#### ELT Pipeline
+
+[![ diagram showing data flow from various data sources to a database and Pytho processing in database ](images/elt.webp)](https://github.com/Ohenedarkoh/Rest-api-to-postgre)
+
+* **Developed a Python and postgreSQL ETL pipeline** to clean messy university data and built an organized Star Schema blueprint to make reporting fast and easy.
+
+* **Secured the database** by giving every item a permanent ID number, so reports never break and analysts can accurately track ranking changes over time.
+
 ####  Exploratory Data Analysis
 
 [![Scatter plots, histograms, and correlation heatmaps visualizing data patterns and relationships from multiple datasets](images/eda11.jpg)](https://github.com/Ohenedarkoh/EDA-in-python-case-studies-and-projects-)
